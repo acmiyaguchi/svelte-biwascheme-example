@@ -5,9 +5,7 @@
   import "codemirror/lib/codemirror.css";
 
   let errorMessage;
-  let biwascheme = new window.BiwaScheme.Interpreter(
-    e => (errorMessage = e.message)
-  );
+  let biwascheme = new BiwaScheme.Interpreter(e => (errorMessage = e.message));
 
   let editorElement;
   let editor;
