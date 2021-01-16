@@ -17,6 +17,8 @@
     "svelte": "^3.31.2"
   },
   "dependencies": {
+    "biwascheme": "git+https://github.com/acmiyaguchi/biwascheme.git#browser-package",
+    "codemirror": "^5.59.1",
     "sirv-cli": "^1.0.10"
   }
 }
