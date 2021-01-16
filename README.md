@@ -9,7 +9,6 @@ Test it out [on Netlify](https://svelte-biwascheme-example.netlify.app).
 Install the dependencies...
 
 ```bash
-cd svelte-app
 npm install
 ```
 
