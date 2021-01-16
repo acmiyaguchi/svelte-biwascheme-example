@@ -32,7 +32,18 @@
 </style>
 
 <main>
-  <h1>biwascheme example</h1>
+  <h1>biwascheme repl</h1>
+
+  <p>
+    This is an example of using
+    <a href="https://www.biwascheme.org/">biwascheme</a>
+    with a bundler like rollup. See the
+    <a href="https://github.com/acmiyaguchi/svelte-biwascheme-example">
+      source code on Github
+    </a>
+    .
+  </p>
+
   <div style="border:1px solid" bind:this={editorElement} />
   <div>
     <button
