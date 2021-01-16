@@ -2,7 +2,7 @@
 
 This is an application to test the browser bundle in
 [biwascheme/biwascheme#216](https://github.com/biwascheme/biwascheme/pull/216).
-Test it out [on Netlify](svelte-biwascheme-example.netlify.app).
+Test it out [on Netlify](https://svelte-biwascheme-example.netlify.app).
 
 ## Get started
 
